@@ -31,6 +31,11 @@ Since this is a learning-focused repository, constructive feedback is highly wel
 
 * * *
 
-### 📜 License
+### 👥 Author & Contact
 
-This repository is shared purely for self-education and knowledge sharing. Please check the `LICENSE` file in this repository (if applicable) for the exact permissions regarding code reuse and sharing.
+*   **Author:**  Dheerajkumarsahu
+*   **Email:**   dheerajkumarsahu827@gmail.com
+*   **Github:**  https://github.com/Dheeraj-kumarsahu/
+*   **Linkdin:** www.linkedin.com/in/dheeraj-kumar-sahu-0a6184418
+
+* * *
